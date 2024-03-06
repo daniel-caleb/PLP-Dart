@@ -1,3 +1,5 @@
+// NAME: DANIEL-CALEB CHERUIYOT
+
 // Task 1
 double addTwo(double num1, double num2) {
   return num1 + num2;
