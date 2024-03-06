@@ -37,20 +37,20 @@ dynamic getFirstElement(List list) {
 
 void main() {
   // Task 1
-  print(addTwo(5, 3)); // Output: 8.0
+  print(addTwo(49, 90));
 
   // Task 2
-  print(subtractTwo(8, 3)); // Output: 5.0
+  print(subtractTwo(25, 13));
 
   // Task 3
-  print(multiplyTwo(2, 4)); // Output: 8.0
+  print(multiplyTwo(221, 408));
 
   // Task 4
-  print(divideTwo(10, 2)); // Output: 5.0
+  print(divideTwo(832, 12));
 
   // Task 5
-  print(stringLength("Hello")); // Output: 5
+  print(stringLength("Mercedes"));
 
   // Task 6
-  print(getFirstElement([1, 2, 3])); // Output: 1
+  print(getFirstElement(["Dog", "Car", "House", 45000, 23828]));
 }
